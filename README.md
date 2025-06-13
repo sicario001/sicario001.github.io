@@ -1,6 +1,6 @@
 # Rayyan Shahid
 <p align="center">
-<img src="Rayyan.jpg" class="center" width="500" height="500" />
+<img src="assets/Rayyan.jpg" class="center" width="500" height="500" />
 </p>
 
 
@@ -12,10 +12,10 @@ I am currently a Software R&D Engineer on the Omniverse Runtime team at NVIDIA, 
 ## Social
 <p>
   <a href="https://www.linkedin.com/in/rayyan-shahid" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="assets/linkedin-icon.png" alt="linkedin" width="25" height="25"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/sicario001" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+    <img src="assets/github-icon.png" alt="github" width="25" height="25"> Github
   </a>
 </p>
 
