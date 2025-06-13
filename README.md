@@ -11,7 +11,7 @@ I am currently a Software R&D Engineer on the Omniverse Runtime team at NVIDIA, 
 
 ## Social
 <p>
-  <a href="https://www.linkedin.com/rayyan-shahid" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/rayyan-shahid" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/sicario001" rel="nofollow noreferrer">
